@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine godly rules coneerning [sic] Christian practice fit to be observed daily in the lives of all those that would be saved. Gathered out of the holy scriptures, for the good of all those which have a purpose within themselves to lead a godly life.</title>
+            <author>Day, John, Rector of St. Mary's, Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82012</idno>
+            <idno type="STC">Wing D468D</idno>
+            <idno type="STC">ESTC R229673</idno>
+            <idno type="EEBO-CITATION">99895490</idno>
+            <idno type="PROQUEST">99895490</idno>
+            <idno type="VID">152929</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82012)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152929)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2334:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine godly rules coneerning [sic] Christian practice fit to be observed daily in the lives of all those that would be saved. Gathered out of the holy scriptures, for the good of all those which have a purpose within themselves to lead a godly life.</title>
+                  <author>Day, John, Rector of St. Mary's, Oxford.</author>
+               </titleStmt>
+               <extent>[16] p., : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>printed by T.W. for Thomas Knight,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A.</note>
+                  <note>Signed at end: I.D.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Anglican authors --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:152929:1"/>
+            <p>
+               <figure>
+                  <figDesc>Christ healing the sick</figDesc>
+                  <figure>
+                     <figDesc>the flight into Egypt</figDesc>
+                  </figure>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:152929:2" rendition="simple:additions"/>
+            <pb facs="tcp:152929:2"/>
+            <p>Certaine Godly Rules Concerning <hi>Chriſtian Practice,</hi> Fit to be obſerved daily in the lives of all thoſe that would be ſaved.</p>
+            <p>Gathered out of the holy Scriptures, for the good of all thoſe which have a purpoſe within themſelves to lead a godly life.</p>
+            <p>LONDON Printed by <hi>T. W.</hi> for <hi>Thomas Knight</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152929:3" rendition="simple:additions"/>
+            <pb facs="tcp:152929:3" rendition="simple:additions"/>
+            <head>Certaine GODLY RVLES Concerning <hi>Chriſtian Practice.</hi>
+            </head>
+            <p n="1">1 <seg rend="decorInit">E</seg>Very morning ſo ſoon as thou awa<g ref="char:EOLhyphen"/>keſt,
+<note place="margin">Pſal. 63.45.6.</note> remember the Lord early in thy bed, &amp; let thy Soul ſend by the wing of Faith, a thanksgiving as the firſt fruit of the morning: let this be done upon the inſtant of thy waking,
+<note place="margin">Pal. 50.23. 1 Sam. 2.30.</note> before thy ſoule be ſtai<g ref="char:EOLhyphen"/>ned with ſinne: See therefore thou obſerve and doe this: For them that honour me, I wi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onour ſaith the Lord.</p>
+            <p n="2">
+               <pb facs="tcp:152929:4"/>
+2 Being now riſen out of thy bed, make haſte to offer unto God thy morning ſacrifice of Prayer, and thanksgiving (with this care that no one of thy family be wanting.) In which Sacrifice remember thou give hearty thanks to God for all his mercies and benefits beſtowed on thee,
+<note place="margin">1 Theſ. 5.</note> whether Spirituall or Temporall, and forget not to bee thankfull for thy late preſervation this night paſt: and making an humble confeſſion of all thy ſinnes, ſee thou ſorrow for them: and if thou canſt not ſorrow, be troubled then in ſpirit with grief, becauſe thou canſt not mourn.
+<note place="margin">Heb. 10.22.</note> And after an ear<g ref="char:EOLhyphen"/>neſt deſire of pardon, ask thoſe ne<g ref="char:EOLhyphen"/>ceſſaries fervently, which are requi<g ref="char:EOLhyphen"/>ſite either for thy ſoule or body; as alſo deſire a bleſſing upon thy la<g ref="char:EOLhyphen"/>bours the day following. And ha<g ref="char:EOLhyphen"/>ving made an end of this thy du<g ref="char:EOLhyphen"/>ty, ſee thou riſe up in the aſſurance of Faith, that God for his Chriſts ſake hath a<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>pted of thy ſacrifices, and hath put away all thine offen<g ref="char:EOLhyphen"/>ces:
+<pb facs="tcp:152929:4"/>ſtand then, and hold thee ſtill by Faith, <hi>For without Faith,
+<note place="margin">Heb. 11.6.</note> it is impoſſible to pleaſe God.</hi>
+            </p>
+            <p n="3">☞ 3 In what place ſoever thou art, be fully perſwaded in thy mind,
+<note place="margin">Ier. 23.24 Pro. 15.3. 2 Cor. 2.17.</note> that thou art in the preſence of the living God: let the remembrance hereof work in thee reverence to his Majeſty, love to his Children,
+<note place="margin">Act. 13.33</note> and feare of offending.</p>
+            <p n="4">4 Make conſcience of idle, vain,
+<note place="margin">Deut. 4.12 Ier. 4.14. Mar. 7.21.22.23.</note> unhoneſt, and ungodly thoughts: for theſe are the roots whence ſinne hath its firſt being, for which cauſe ſuffer not theſe to grow in the gar<g ref="char:EOLhyphen"/>den of thy <hi>ſoules Paradiſe,</hi> but ſpee<g ref="char:EOLhyphen"/>dily pluck them forth, that ſo God may delight to reſt and walk in thee not onely at Even-tide,
+<note place="margin">Gen. 6.5.6.7</note> but all the dayes of thy life: See therefore no care be lacking to prevent ſinne before it come to action: for wicked thoughts were a cauſe, that the wrath of God came upon the chil<g ref="char:EOLhyphen"/>dren of diſobedience.</p>
+            <p n="5">
+               <pb facs="tcp:152929:5"/>
+5 Be fully perſwaded in mind that thy preſent eſtate is beſt for thee,
+<note place="margin">Luk. 12.22.23.24.</note> whether proſperity or adver<g ref="char:EOLhyphen"/>ſity whether poore or rich, becauſe it is of the good providence of God, and without his will nothing befall<g ref="char:EOLhyphen"/>eth his children, let this be the ſtaffe of thy ſoule, lean thou ſtill on the Lord by Faith.
+<note place="margin">Mat. 10.29.30.31. Heb. 13.5, 6.</note> 
+               <hi>For he hath ſaid, I will never leave thee, nor forſake thee.</hi>
+            </p>
+            <p n="6">☞ 6 put away jeſting,
+<note place="margin">Eph. 5.4.</note> with fooliſh talking, remembring this thou keep thy tongue from evil, and thy lips,
+<note place="margin">Pſal. 34.12.13. Prov. 10.19. and 17.27. &amp; 18.21. Iames 3.</note> 
+               <hi>that they ſpeake no guile,</hi> for in many words there cannot want ſinne; therefore to refraine is diſcretion: and when thou ſpeakeſt, to ſpeak the truth is wiſedome, for death and life are in the power of the tongue<g ref="char:punc">▪</g> and they that love it ſhall eate the fruit thereof;
+<note place="margin">Matt. 12.36.</note> for by thy words thou ſhalt be juſtified, and by thy words thou ſhalt be con<g ref="char:EOLhyphen"/>demned.</p>
+            <p n="7">
+               <pb facs="tcp:152929:5"/>
+☞ 7 Endeavour to have fervent love<g ref="char:punc">▪</g> for the gift thereof is ſweet,
+<note place="margin">1 Pet. 4.8. 1 Iohn 4.7.8.</note> it covereth <hi>a multitude of ſinnes:</hi> for this cauſe love thine enemy,
+<note place="margin">Mat. 5.43.44.45. R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m. 12.14.17.18.19.20.21.</note> for ſo thou art commanded, and if he worng thee, wrong not thy ſelf by revenging, (for it is written, <hi>Ven<g ref="char:EOLhyphen"/>geance is mine, and I will repay ſaith the Lord:</hi> learn therfore and obſerve that to hurt thiue enemy is to do him good, and in ſo doing thou ſhalt heap coals of fire upon his head: Be not therefore overcome of evill, but o<g ref="char:EOLhyphen"/>vercome evill with goodneſſe.</p>
+            <p n="8">8 Take head of <hi>Anger,</hi>
+               <note place="margin">Eccle. 28.12.</note> for if <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>auſeth ſtrife: a ſoft anſwer appeaſeth wrath: For as a fire (mans nature if thou blow it it will kindle,
+<note place="margin">Prov. 14.29.</note> but if thou ſpit on it, it ſhall be quench<g ref="char:EOLhyphen"/>ed: but if patien<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>anting, this fire will <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eek peace then with all men, if poſſibly thou canſt for change of words gendreth ſtrife: therefore ſilence as water) is fit<g ref="char:EOLhyphen"/>teſt for this heat: for note the wrath of man doth not accompliſh
+<pb facs="tcp:152929:6"/>the righteouſneſſe of God,</p>
+            <p n="9">9 <hi>To do good and to diſtribute forget not,
+<note place="margin">Heb. 13.16.</note> for with ſuch ſacrifice God is well pleaſed.</hi> Wherefore ſtop not thine eare at the crie of the poore,
+<note place="margin">Rom. 12.13.</note> leſt thou likwiſe crie, and God will not heare, and when thou doeſt good remember this,
+<note place="margin">Pro. 21.13. Pro. 17.5.</note> uſe no diſcomfortable words, neither rail<g ref="char:EOLhyphen"/>ing ſpeeches (as the manner of ſome is:) for judge ye, is not a good word more acceptable then a great giſt?
+<note place="margin">Eccle. 18.14.16.17.</note> and a gracious man gi<g ref="char:EOLhyphen"/>veth them both, but a foole re<g ref="char:EOLhyphen"/>proveth charliſhly forgetting this whatſoever you would that men ſhould do to you, even ſo do yee to them, for this, is the Law <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the Prophets.
+<note place="margin">Mat. 7.12.</note>
+            </p>
+            <p n="10">☞ 10 Se<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t in word and convarſation of life thou become a preſident for others to imitate;
+<note place="margin">Pro. 15.16</note> let this be done without hypocriſie, and forget not in all things to keep a good conſcience,
+<note place="margin">Pſal. 3.37</note> for this will bring a man peace at the laſt.</p>
+            <p n="11">
+               <pb facs="tcp:152929:6"/>
+11 Practiſe in thy life true humi<g ref="char:EOLhyphen"/>lity,
+<note place="margin">1 Pet. 5.5.</note> for God reſiſteth the proud and giveth grace to the humble.
+<note place="margin">Iam. 1.16.17.</note> 
+               <hi>For what have we which we have not re<g ref="char:EOLhyphen"/>ceived?</hi> Oh what is duſt that we ſhould be proud? Learn therefore meeknes by the example of our Sa<g ref="char:EOLhyphen"/>viour Chriſt,
+<note place="margin">Phil. 2.7.8. Mar. 11 29.</note> who though he were God, yet took he upon him the ſhape of a Servant, in which form he ſaid learn yee of mee that I am meeke and lowly in heart.</p>
+            <p n="12">12 If at any time a good motion do riſe in thy mind ſuffer it not to go forth unblowed,
+<note place="margin">Rev. 3.20. Cant. 5.4.5.9. 2 Cor. 3.5. 1 Theſ. 5.19.</note> but cheriſh it either by reading meditating or praying, for this is a ſpark of Gods grace now the means to make this ſpark become a fire, is chiefly <hi>Prayer.</hi>
+            </p>
+            <p n="13">13 Whenſoever thou falleſt into a ſinne,
+<note place="margin">Eph. 4.26.27. Heb. 3.12.13.14.</note> ſpeedily recover thy ſelfe againe by repentance, and lie not therein with the dead, but riſe again
+<pb facs="tcp:152929:7"/>by Faith in Chriſt as being alive to God.</p>
+            <p n="14">☞ 14 Whatſoever thou ta<g ref="char:EOLhyphen"/>keſt in hand remember thine end ſo ſhalt thou never do amiſſe,
+<note place="margin">Eccle. 7.36. Deut. 32.29.</note> if at all times thou eſteeme the day of thy life, as the day of thy death: for there is nothing ſo certain as it,
+<note place="margin">Pſal. 39.4.</note> and there is nothing ſo uncertaine as the time of it:
+<note place="margin">Mar. 13.35.36.</note> be therefore ſo<g ref="char:EOLhyphen"/>ber and watching, that Chriſt at his coming may find thee waking: and for thy better watch let this ſound be alwayes in thine eares: Ariſe yee dead, and come forth to Iudgment.</p>
+            <p n="15">☞ 15 So ſpend the Sabbath all thy life,
+<note place="margin">Exod. 20.8. and 31.14.15.16.17. &amp; 35.2.3.</note> that thy ſoule at death may reſt in bliſſe: no work there<g ref="char:EOLhyphen"/>in ſee thou doe ſave works of ho<g ref="char:EOLhyphen"/>nour approved by that day as to feed the hungry,
+<note place="margin">Mat. 25.34.35.36. Ier. 4.14.</note> cloath the naked, viſit the ſick, comfort the afflicted: doe this, and thy Soule ſhall live. Have a care thou taſt from ſinne,
+<pb facs="tcp:152929:7"/>for holines becometh the Day, as well in thoughts as in word, as well in word as in action,
+<note place="margin">Ier. 17.21 22.23.</note> and thinke it not enough that your ſelfe can doe thus, but alſo have a care that your Family be like minded,
+<note place="margin">Neh. 13.15.16.17.18.19.</note> together heare the word with reverence, pray publickly and privately, ſpend the day in holy conference: and let thy ſoule ſwimme in heavenly medi<g ref="char:EOLhyphen"/>tations; ſo ſhalt thou never be alone, for God is with thee</p>
+            <p n="16">16 The night being come,
+<note place="margin">Prov. 28.13.14.</note> call thy ſelfe to an account, how thou haſt ſpent the day paſt, thy miſdo<g ref="char:EOLhyphen"/>ing repent with this reſolution in thy ſelfe to ſpend the ramainder of thy life after a better manner, and with a better conſcience) then here<g ref="char:EOLhyphen"/>tofore thou haſt done: let this be the whole courſe of thy life, and forget not to be thankfull to God for thoſe good duties, which by his aſſiſtance thou haſt performed the day paſt.</p>
+            <p n="17">
+               <pb facs="tcp:152929:8"/>
+☞ 17 Sleepe not at night, be<g ref="char:EOLhyphen"/>fore thou haſt commended thy ſelfe (and thy whole Familie) by pray<g ref="char:EOLhyphen"/>er into the hands of God, and that not lazily upon thy bed, (as the manner of ſome is:) But humble thou thy Soule before the Lord, kneling meekly on thy knees, ha<g ref="char:EOLhyphen"/>ving our Saviour Chriſt for an ex<g ref="char:EOLhyphen"/>ample,
+<note place="margin">Mat. 26.39.</note> that not onely in this, but in all things elſe we may be found followers of him) for what know<g ref="char:EOLhyphen"/>eſt thou (if being fallen aſleepe) whether ever thou ſhalt riſe againe to life or not?
+<note place="margin">Eccle. 11.3.9. and 12.14.14.</note> take heed therefore, for as the tree falleth, ſo it lieth; as death leades thee, ſo ſhall judgement find thee.</p>
+            <p n="18">☞ 18 Walk as the Children of light,
+<note place="margin">Eph. 5.8.</note> and paſſe the time of your dwelling here in feare,
+<note place="margin">1 Pet. 1.17. 2 Pet. 3.10.11.</note> knowing that the day of the Lord will come as a thiefe in the night, in the which the heavens ſhall paſſe away with a noiſe, and the Element ſhall melt with heat, and the earth with the
+<pb facs="tcp:152929:8"/>works therein, ſhall be burnt up.
+<note place="margin">Mar. 24.42.</note> Seeing therefore that all theſe things muſt be diſſolved, what man<g ref="char:EOLhyphen"/>ner of perſons ought we to be in holy converſation and godlineſſe?
+<note place="margin">Mar. 13.33.</note> For we know not the time neither the houre when our Lord will come: be yee therefore ſober: <hi>Watch</hi> and <hi>pray,</hi> (and bleſſed is that Servant whom his Maſter at his co<g ref="char:EOLhyphen"/>ming,
+<note place="margin">Mar. 24.46. and 13 47.</note> ſhall find ſo do<g ref="char:EOLhyphen"/>ing) now thoſe things that I ſay unto you, I ſay unto all men, <hi>Watch.</hi>
+            </p>
+            <closer>
+               <signed>I. D.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:152929:9"/>
+            <p>
+               <figure>
+                  <figDesc>adoration of the Magi</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:152929:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
